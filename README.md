@@ -5,7 +5,7 @@ Install a [mdtable2csv](https://github.com/BatuhanKucukali/mdtable2csv) via home
 ## Install
 
 ```bash
-brew tap BatuhanKucukali/mdtable2csv https://github.com/BatuhanKucukali/homebrew-mdtable2csv
-brew update && brew doctor
+brew tap BatuhanKucukali/mdtable2csv
 brew install mdtable2csv
 ```
+
